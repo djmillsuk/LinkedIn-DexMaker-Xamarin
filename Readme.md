@@ -1,4 +1,4 @@
-THis is a xamarin port of LinkedIn/Dexmaker
+This is a xamarin port of LinkedIn/Dexmaker
 
 All credit goes to the original developers at https://github.com/linkedin/dexmaker
 
